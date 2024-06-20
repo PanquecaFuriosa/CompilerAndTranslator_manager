@@ -48,4 +48,4 @@ Follow these steps to compile the project:
 ## How to run the project
 Follow these steps to run the project:
 1. **Run the following bash command**:
-   ```make```
+   ```./diagramasT.sh```
