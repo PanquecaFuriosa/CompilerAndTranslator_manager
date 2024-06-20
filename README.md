@@ -29,3 +29,23 @@ d. Once the program is started, it will repeatedly ask the user for an action to
     Debe salir del simulador.
     
 At the end of each action, the program must ask the user for the next action.
+
+## Requirements:
+To run this program, you must have the following installed:
+- Kotlin
+- Any Lunix OS
+
+## How to install the project
+Follow these steps to install the project:
+1. **Clone the repository**: Clone the repository using the following git command:
+   ```git clone https://github.com/PanquecaFuriosa/CompilerAndTranslator_manager```
+
+## How to compile the project
+Follow these steps to compile the project:
+1. **Run the following bash command**:
+   ```make```
+
+## How to run the project
+Follow these steps to run the project:
+1. **Run the following bash command**:
+   ```make```
