@@ -26,7 +26,7 @@ d. Once the program is started, it will repeatedly ask the user for an action to
     Your program should print if it is possible to construct what is requested, using only the definitions made so far.
     The program should report an error and ignore the action if <name> does not have an associated program.
   - ```SALIR```<br>
-    Debe salir del simulador.
+    It must exit the simulator.
     
 At the end of each action, the program must ask the user for the next action.
 
