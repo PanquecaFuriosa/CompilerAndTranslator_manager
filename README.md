@@ -6,7 +6,7 @@ It is desired that you model and implement, in the language of your choice, a pr
 This program must meet the following characteristics:
 
 a. Must be able to handle programs, interpreters and translators. These might be:
-  - PROGRAMA <name> <language>
+  - ```PROGRAMA <name> <language>```
     Represents a program identified by <name> written in <language>.
   - INTERPRETE <base_language> <language>
     Represents an interpreter for <language> written in <base_language>.
